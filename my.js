@@ -35,7 +35,7 @@ angular.module('myapp',['ngRoute'])
 })
 .controller("aboutcntrl",function($scope)
 {
-    $scope.about=["This is a the about page for the flight website.The owner of the company is Rohit Priyadarshi"];
+    $scope.about=["This is the about page for the flight website.The owner of the company is Rohit Priyadarshi"];
 })
 .controller("flightcntrl",function($scope,$http)
 {
