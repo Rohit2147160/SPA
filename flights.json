@@ -1,0 +1,9 @@
+{"roaster":[
+    {"flightNO":1234,"date":"2022-02-05","source":"Ahmedabad" ,"destination":"Bengaluru" ,"fare":5000, "noofseats":32, "airLineName":"GOAIR"},
+    {"flightNO":2245,"date":"2022-02-06","source":"Bengaluru" ,"destination":"New York" ,"fare":7000, "noofseats":35, "airLineName":"GOAIR"},
+    {"flightNO":3245,"date":"2022-02-07","source":"Vadodara" ,"destination":"Melbourne" ,"fare":15000, "noofseats":85, "airLineName":"AIR INDIA"},
+    {"flightNO":9985,"date":"2022-02-08","source":"New Delhi" ,"destination":"Berlin" ,"fare":5500, "noofseats":53, "airLineName":"INDIGO"},
+    {"flightNO":2278,"date":"2022-02-09","source":"Mohali" ,"destination":"London" ,"fare":8900, "noofseats":46, "airLineName":"VISTARA"},
+    {"flightNO":5278,"date":"2022-02-10","source":"Chandigarh" ,"destination":"Toronto" ,"fare":6500, "noofseats":25, "airLineName":"AIR INDIA"}
+   
+]}  
